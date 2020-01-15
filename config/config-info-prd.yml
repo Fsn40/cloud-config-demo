@@ -1,0 +1,3 @@
+springcloud:
+  demo:
+    config: prd config
