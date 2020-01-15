@@ -1,4 +1,3 @@
-cn:
-  springcloud:
-    book:
-      config: dev config
+springcloud:
+  demo:
+    config: dev config
