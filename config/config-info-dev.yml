@@ -1,3 +1,3 @@
 springcloud:
   demo:
-    config: dev config change
+    config: dev config
